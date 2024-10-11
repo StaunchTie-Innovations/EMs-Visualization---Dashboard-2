@@ -1,2 +1,4 @@
 ﻿# EMs-Visualization---Dashboard-2
-Hello world prject on flask with bootstrap front end.
+Hello world project on flask with bootstrap front end.
+And a dashboard according to given scenario
+
